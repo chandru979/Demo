@@ -1,0 +1,9 @@
+
+Teacher: Anitha M. Manogaran
+
+
+When you create a new instance (a new object) of a class using the new keyword, a constructor for that class is called. Constructors are used to initialize the instance variables (fields) of an object. Constructors are similar to methods, but with some important differences.
+
+Constructor name is class name. A constructors must have the same name as the class its in.
+Default constructor. If you don't define a constructor for a class, a default parameterless constructor is automatically created by the compiler. The default constructor calls the default parent constructor (super()) and initializes all instance variables to default value (zero for numeric types, null for object references, and false for booleans).
+Default constructor is created only if there are no constructors. If you define any constructor for your class, no default constructor is automatically created.

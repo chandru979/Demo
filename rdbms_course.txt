@@ -1,0 +1,16 @@
+
+Teacher: Jaya Ethiraj
+Teacher: sabapathi shanmugam
+
+DDL(Data definition language)
+
+DDL statements are used to build and modify the structure of your tables and other objects in the database. When you execute a DDL statement, it takes effect immediately
+
+SQL-Schema Statements -- maintain schema (catalog)
+CREATE TABLE Statement -- create tables
+CREATE VIEW Statement -- create views
+ALTER TABLE Statement – alter the table's column or constraints
+DROP TABLE Statement -- drop tables
+DROP VIEW Statement -- drop views
+GRANT Statement -- grant privileges on tables and views to other users
+REVOKE Statement -- revoke privileges on tables and views from other users

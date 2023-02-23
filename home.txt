@@ -1,0 +1,6 @@
+                                ---------------Welcome to knowledge portal----------------
+A knowledge management portal (or, KM portal) is a digital platform that houses an organization’s collective knowledge, making it accessible to all team members and stakeholders as needed.
+
+Put more succinctly, an organization’s knowledge management portal is its Single Source of Truth. It’s the place for team members and other stakeholders to go to find documentation regarding:
+
+Software documentation, technical documentation
